@@ -1,7 +1,7 @@
 # copy-specific-images-from-one-folder-to-other
 Used to refine a dataset for research project.
 </br>
-This was used to separate an image dataset in which i was having 2,00,000 + images in one folder and csv files having their sentiment Positive, Neg, Neutral.
+This was used to separate an image dataset in which i was having large number of images in one folder and csv files having their sentiment Positive, Neg, Neutral.
 
 # Dataset research paper: 
 <h3>
