@@ -13,7 +13,7 @@ Date: March 2016
 Copyright © 2016, IEEE
 </h3>
 
-This paper was having all the images in one folder but we were needing images in separate folders Pos, Neg and Neutral. This python code just copies images from one main folder to other 3 sub folders using shutil library of python.
+This paper was having all the images in one folder but we were needing images in separate folders Pos, Neg and Neutral. This python code just copies images from one main folder to other 3 sub folders using shutil library of python (code present in master branch).
 </br>
 </br>
 All images was categorised and sentiment stored in csv file.
